@@ -1,0 +1,6 @@
+event_type
+timestamp
+hesitation_duration
+answer_change
+retry_count
+confidence_shift
